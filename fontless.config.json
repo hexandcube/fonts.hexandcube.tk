@@ -1,0 +1,235 @@
+{
+  "version": "v1",
+  "name": "Fontless",
+  "type": "varld-fontless-config",
+  "fonts": {
+    "roboto": {
+      "category": "sans-serif",
+      "id": "roboto",
+      "name": "Roboto",
+      "previewVariant": "400"
+    },
+    "open-sans": {
+      "category": "sans-serif",
+      "id": "open-sans",
+      "name": "Open Sans",
+      "previewVariant": "400"
+    },
+    "lato": {
+      "category": "sans-serif",
+      "id": "lato",
+      "name": "Lato",
+      "previewVariant": "400"
+    },
+    "montserrat": {
+      "category": "sans-serif",
+      "id": "montserrat",
+      "name": "Montserrat",
+      "previewVariant": "400"
+    },
+    "roboto-condensed": {
+      "category": "sans-serif",
+      "id": "roboto-condensed",
+      "name": "Roboto Condensed",
+      "previewVariant": "400"
+    },
+    "roboto-mono": {
+      "category": "monospace",
+      "id": "roboto-mono",
+      "name": "Roboto Mono",
+      "previewVariant": "400"
+    },
+    "raleway": {
+      "category": "sans-serif",
+      "id": "raleway",
+      "name": "Raleway",
+      "previewVariant": "400"
+    },
+    "pt-sans": {
+      "category": "sans-serif",
+      "id": "pt-sans",
+      "name": "PT Sans",
+      "previewVariant": "400"
+    },
+    "roboto-slab": {
+      "category": "serif",
+      "id": "roboto-slab",
+      "name": "Roboto Slab",
+      "previewVariant": "400"
+    },
+    "merriweather": {
+      "category": "serif",
+      "id": "merriweather",
+      "name": "Merriweather",
+      "previewVariant": "400"
+    },
+    "ubuntu": {
+      "category": "sans-serif",
+      "id": "ubuntu",
+      "name": "Ubuntu",
+      "previewVariant": "400"
+    },
+    "nunito": {
+      "category": "sans-serif",
+      "id": "nunito",
+      "name": "Nunito",
+      "previewVariant": "400"
+    },
+    "mukta": {
+      "category": "sans-serif",
+      "id": "mukta",
+      "name": "Mukta",
+      "previewVariant": "400"
+    },
+    "work-sans": {
+      "category": "sans-serif",
+      "id": "work-sans",
+      "name": "Work Sans",
+      "previewVariant": "400"
+    },
+    "fira-sans": {
+      "category": "sans-serif",
+      "id": "fira-sans",
+      "name": "Fira Sans",
+      "previewVariant": "400"
+    },
+    "nanum-gothic": {
+      "category": "sans-serif",
+      "id": "nanum-gothic",
+      "name": "Nanum Gothic",
+      "previewVariant": "400"
+    },
+    "source-code-pro": {
+      "category": "monospace",
+      "id": "source-code-pro",
+      "name": "Source Code Pro",
+      "previewVariant": "400"
+    },
+    "hind": {
+      "category": "sans-serif",
+      "id": "hind",
+      "name": "Hind",
+      "previewVariant": "400"
+    },
+    "karla": {
+      "category": "sans-serif",
+      "id": "karla",
+      "name": "Karla",
+      "previewVariant": "400"
+    },
+    "josefin-sans": {
+      "category": "sans-serif",
+      "id": "josefin-sans",
+      "name": "Josefin Sans",
+      "previewVariant": "400"
+    },
+    "inter": {
+      "category": "sans-serif",
+      "id": "inter",
+      "name": "Inter",
+      "previewVariant": "400"
+    },
+    "overpass": {
+      "category": "sans-serif",
+      "id": "overpass",
+      "name": "Overpass",
+      "previewVariant": "400"
+    },
+    "varela-round": {
+      "category": "sans-serif",
+      "id": "varela-round",
+      "name": "Varela Round",
+      "previewVariant": "400"
+    },
+    "source-serif-pro": {
+      "category": "serif",
+      "id": "source-serif-pro",
+      "name": "Source Serif Pro",
+      "previewVariant": "400"
+    },
+    "arvo": {
+      "category": "serif",
+      "id": "arvo",
+      "name": "Arvo",
+      "previewVariant": "400"
+    },
+    "merriweather-sans": {
+      "category": "sans-serif",
+      "id": "merriweather-sans",
+      "name": "Merriweather Sans",
+      "previewVariant": "400"
+    },
+    "cairo": {
+      "category": "sans-serif",
+      "id": "cairo",
+      "name": "Cairo",
+      "previewVariant": "400"
+    },
+    "exo-2": {
+      "category": "sans-serif",
+      "id": "exo-2",
+      "name": "Exo 2",
+      "previewVariant": "400"
+    },
+    "zilla-slab": {
+      "category": "serif",
+      "id": "zilla-slab",
+      "name": "Zilla Slab",
+      "previewVariant": "400"
+    },
+    "comfortaa": {
+      "category": "display",
+      "id": "comfortaa",
+      "name": "Comfortaa",
+      "previewVariant": "400"
+    },
+    "questrial": {
+      "category": "sans-serif",
+      "id": "questrial",
+      "name": "Questrial",
+      "previewVariant": "400"
+    },
+    "hind-madurai": {
+      "category": "sans-serif",
+      "id": "hind-madurai",
+      "name": "Hind Madurai",
+      "previewVariant": "400"
+    },
+    "assistant": {
+      "category": "sans-serif",
+      "id": "assistant",
+      "name": "Assistant",
+      "previewVariant": "400"
+    },
+    "antic-slab": {
+      "category": "serif",
+      "id": "antic-slab",
+      "name": "Antic Slab",
+      "previewVariant": "400"
+    },
+    "fira-sans-condensed": {
+      "category": "sans-serif",
+      "id": "fira-sans-condensed",
+      "name": "Fira Sans Condensed",
+      "previewVariant": "400"
+    },
+    "maven-pro": {
+      "category": "sans-serif",
+      "id": "maven-pro",
+      "name": "Maven Pro",
+      "previewVariant": "400"
+    },
+    "space-mono": {
+      "category": "monospace",
+      "id": "space-mono",
+      "name": "Space Mono",
+      "previewVariant": "400"
+    },
+    "courier-prime": {
+      "category": "monospace",
+      "id": "courier-prime",
+      "name": "Courier Prime",
+      "previewVariant": "400"
+    }
+  }
+}
